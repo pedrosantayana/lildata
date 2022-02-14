@@ -1,8 +1,10 @@
 fn main() {
 }
 
+mod 
+
 #[allow(dead_code)]
-struct BitVec {
+pub struct BitVec {
     vec: Vec<u8>,
     length: usize
 }
@@ -27,5 +29,5 @@ impl BitVec {
 }
 
 mod funcs {
-    
+
 }
