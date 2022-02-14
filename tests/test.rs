@@ -1,4 +1,4 @@
-use lildata::;
+use lildata::BitVec;
 
 #[cfg(test)]
 mod tests {
